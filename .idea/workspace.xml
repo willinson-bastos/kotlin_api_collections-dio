@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66543a36-aae7-49d9-93d5-c4950df4491e" name="Changes" comment="Criada classe de teste DoubleArray">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteOperacoes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="66543a36-aae7-49d9-93d5-c4950df4491e" name="Changes" comment="Criada classe TesteOperacoes">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteOperacoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteOperacoes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657989508074</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Criada classe TesteOperacoes">
+      <created>1657999944223</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657999944223</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +166,7 @@
     <MESSAGE value="Criada classe de teste IntArrayOf" />
     <MESSAGE value="Criada classe de teste ArrayString" />
     <MESSAGE value="Criada classe de teste DoubleArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criada classe de teste DoubleArray" />
+    <MESSAGE value="Criada classe TesteOperacoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criada classe TesteOperacoes" />
   </component>
 </project>
