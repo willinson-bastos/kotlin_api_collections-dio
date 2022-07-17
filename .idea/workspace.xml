@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66543a36-aae7-49d9-93d5-c4950df4491e" name="Changes" comment="Criada classe TesteOperacoes">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteOperacoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteOperacoes.kt" afterDir="false" />
+    <list default="true" id="66543a36-aae7-49d9-93d5-c4950df4491e" name="Changes" comment="Implementação  na classe TesteOperacoes">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TesteOperacoesKt">
+  <component name="RunManager" selected="Kotlin.TesteListKt">
     <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteArrayStringKt" />
       <module name="consoleApp" />
@@ -53,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteIntArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteIntArrayKt" />
+    <configuration name="TesteIntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteIntArrayOfKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteIntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteIntArrayOfKt" />
+    <configuration name="TesteListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteListKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteListKt" />
         <item itemvalue="Kotlin.TesteOperacoesKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
         <item itemvalue="Kotlin.TesteIntArrayOfKt" />
-        <item itemvalue="Kotlin.TesteIntArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657999944223</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Implementação  na classe TesteOperacoes">
+      <created>1658000404575</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658000404575</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +175,7 @@
     <MESSAGE value="Criada classe de teste ArrayString" />
     <MESSAGE value="Criada classe de teste DoubleArray" />
     <MESSAGE value="Criada classe TesteOperacoes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criada classe TesteOperacoes" />
+    <MESSAGE value="Implementação  na classe TesteOperacoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação  na classe TesteOperacoes" />
   </component>
 </project>
