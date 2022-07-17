@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66543a36-aae7-49d9-93d5-c4950df4491e" name="Changes" comment="Criada classe TesteList com data class Funcionario">
+    <list default="true" id="66543a36-aae7-49d9-93d5-c4950df4491e" name="Changes" comment="Implementações na classe TesteList">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/Funcionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteSet.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteList.kt" afterDir="false" />
     </list>
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Data Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -39,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TesteListKt">
+  <component name="RunManager" selected="Kotlin.TesteSetKt">
     <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteArrayStringKt" />
       <module name="consoleApp" />
@@ -49,13 +52,6 @@
     </configuration>
     <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteDoubleArrayKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteIntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteIntArrayOfKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteSetKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteSetKt" />
         <item itemvalue="Kotlin.TesteListKt" />
         <item itemvalue="Kotlin.TesteOperacoesKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
-        <item itemvalue="Kotlin.TesteIntArrayOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658063103552</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Implementações na classe TesteList">
+      <created>1658064127851</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658064127851</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +194,7 @@
     <MESSAGE value="Criada classe TesteOperacoes" />
     <MESSAGE value="Implementação  na classe TesteOperacoes" />
     <MESSAGE value="Criada classe TesteList com data class Funcionario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criada classe TesteList com data class Funcionario" />
+    <MESSAGE value="Implementações na classe TesteList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementações na classe TesteList" />
   </component>
 </project>
